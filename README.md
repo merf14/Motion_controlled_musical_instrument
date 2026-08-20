@@ -9,6 +9,10 @@
 поступающих с датчиков 
 4) Генерация звука заданной частоты.
 
+## Макет
+<img width="896" height="672" alt="5314803720367313119" src="https://github.com/user-attachments/assets/49f32489-ff87-4b1e-8727-62e26ce962e2" />
+
+
 # Схема электрическая принципальная
 ![схемы](https://github.com/user-attachments/assets/41e4aad2-df27-47a8-9ad7-b15c1b2441a4)
 
